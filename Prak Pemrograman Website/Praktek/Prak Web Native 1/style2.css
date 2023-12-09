@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(35, 65, 199);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: rgb(61, 252, 61);
+  text-decoration: underline;
+}
+
+ul {
+  color: goldenrod;
+}

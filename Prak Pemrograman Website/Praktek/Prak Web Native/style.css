@@ -1,0 +1,71 @@
+body {
+  background-color: rgb(201, 245, 201);
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1;
+}
+
+.tahun {
+  font-size: medium;
+  text-align: center;
+  line-height: 1;
+  color: rgb(34, 252, 34);
+}
+
+.nama {
+  color: black;
+  text-align: right;
+  font-weight: bold;
+  font-family: 'Britannic Bold', sans-serif;
+}
+
+.red {
+  color: red;
+  text-align: center;
+  line-height: 1;
+}
+
+.cin_hitam {
+  color: black;
+  line-height: 1;
+}
+
+.Bold {
+  text-align: center;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.red_kanan {
+  text-align: center;
+  line-height: 1;
+}
+
+.biru {
+  text-align: center;
+  color: #00e1ff;
+  text-decoration: underline;
+  line-height: 1;
+}
+
+.paragraf_grey {
+  background-color: white;
+  color: grey;
+  text-indent: 50px;
+}
+
+.warna_hitam {
+  color: black;
+}
+
+pre {
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.copyright {
+  text-align: center;
+}
